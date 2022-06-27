@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @btashii
+- 👋 Hi, I’m @btashii, current NASA intern and Aerospace Engineering student!
 - 👀 I’m interested in programming and computer-aided design!
 - 🌱 I’m currently learning about AI, Web Development, data management, robotics, and rockets. 
 
